@@ -1,0 +1,10 @@
+Data/
+data/
+poster/
+
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.npy
