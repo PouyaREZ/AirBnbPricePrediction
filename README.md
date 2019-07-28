@@ -4,9 +4,11 @@ CS229 Final Project
 
 Authors:
 
-Liubov Nikolenko (liubov@stanford.edu)
-Hoormazd Rezaei (hoormazd@stanford.edu)
 Pouya Rezazadeh Kalehbasti (pouyar@stanford.edu)
+
+Liubov Nikolenko (liubov@stanford.edu)
+
+Hoormazd Rezaei (hoormazd@stanford.edu)
 
 ###########################################
 
