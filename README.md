@@ -1,9 +1,13 @@
 ###########################################
+
 CS229 Final Project
+
 Authors:
+
 Liubov Nikolenko (liubov@stanford.edu)
 Hoormazd Rezaei (hoormazd@stanford.edu)
 Pouya Rezazadeh Kalehbasti (pouyar@stanford.edu)
+
 ###########################################
 
 In order to run the code make sure you pre-instal all the dependecies such as
