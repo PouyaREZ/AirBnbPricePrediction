@@ -10,6 +10,8 @@ Liubov Nikolenko (liubov@stanford.edu)
 
 Hoormazd Rezaei (hoormazd@stanford.edu)
 
+Link to ArXiv: https://arxiv.org/abs/1907.12665
+
 ###########################################
 
 In order to run the code make sure you pre-instal all the dependecies such as
