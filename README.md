@@ -46,7 +46,6 @@ run different configurations of the models.
     X_train = X_train[list(col_set)]
     X_val = X_val[list(col_set)]
     X_test = X_test[list(col_set)]
-    
     )
 
 Warning: certain models take a while to train and run!
