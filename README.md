@@ -31,18 +31,18 @@ TextBlob and sklearn
 Note that by commenting/uncommenting certain lines of code you will be able to
 run different configurations of the models.
 1. To run the models with Lasso CV feature selection comment out line 240
-`(coeffs = np.load('../Data/selected_coefs_pvals.npy')` and uncomment line 241
-`(coeffs = np.load('../Data/selected_coefs.npy')`.
+`coeffs = np.load('../Data/selected_coefs_pvals.npy')` and uncomment line 241
+`coeffs = np.load('../Data/selected_coefs.npy')`.
 2. To run the models with p-value feature selection uncomment line 240
-`(coeffs = np.load('../Data/selected_coefs_pvals.npy')` and comment out line 241
-`(coeffs = np.load('../Data/selected_coefs.npy')`.
+`coeffs = np.load('../Data/selected_coefs_pvals.npy')` and comment out line 241
+`coeffs = np.load('../Data/selected_coefs.npy')`.
 3. To run the baseline uncomment the lines 277, 278
 ```python
     print("--------------------Linear Regression--------------------")
     LinearModel(X_concat, y_concat, X_test, y_test)
-    )
-    and comment out everything below these lines. Also, comment out the lines 268,
-    269 and 270 (
+ ```
+ and comment out everything below these lines. Also, comment out the lines 268, 269 and 270
+ ```python
     X_train = X_train[list(col_set)]
     X_val = X_val[list(col_set)]
     X_test = X_test[list(col_set)]
