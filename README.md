@@ -17,6 +17,11 @@ Hoormazd Rezaei (hoormazd@stanford.edu)
 In order to run the code make sure you pre-instal all the dependecies such as
 TextBlob and sklearn
 
++ DOWNLOAD THE DATASET:
+Create a directory called "Data", and download the datasets from this link into the directory:
+https://drive.google.com/drive/folders/1xk5RyR-UgF6M-ddhn11SXHEWJeB0fQo5?usp=sharing
+
+
 + INITIAL DATA PREPROCESSING:
 1. Generate a fine with review sentiment: `python sentiment_analysis.py`
 2. Clean the data: `python data_cleanup.py`
