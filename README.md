@@ -1,6 +1,6 @@
 ###########################################
 
-CS229 Final Project
+Airbnb Price Prediction Using MachineLearning and Sentiment Analysis
 
 Authors:
 
