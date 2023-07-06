@@ -1,7 +1,7 @@
 numpy==1.16.2
 matplotlib==2.2.2
 Keras==2.2.4
-scipy==1.1.0
+scipy==1.10.0
 pandas==0.24.2
 Shapely==1.6.4.post2
 geopandas==0.3.0
